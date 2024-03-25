@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class Forsifs {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        
         System.out.println("input number : ");
         int inputnumber = scanner.nextInt();
 
