@@ -14,6 +14,7 @@ public class Loops_Fors {
          예제 : 1 부터 5 까지 1씩 증가하며 출력하는 것
          */
         // for (int count = 1 ; count <= 5 ; count = count + 1){
+        // }
         for (int count = 1 ; count <= 5 ; count ++){
             System.out.println("For count : "+count);
         }
