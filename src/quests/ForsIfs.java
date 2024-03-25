@@ -1,7 +1,7 @@
 package quests;
 import java.util.Scanner;
 
-public class Forsifs {
+public class ForsIfs {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
