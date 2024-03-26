@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-## JAVA 
+## JAVA file 정리
 <details>
 <summary>JAVA Basic</summary>
 
@@ -33,9 +33,6 @@
 
 </details>
 
-<br/><br/>
-
-## Quest
 <details>
 <summary>Quest</summary>
 
