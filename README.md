@@ -18,17 +18,17 @@
 
 |구분|파일명|적용내용|파일내용|비고|
 |--|--|--|--|--|
-|1|[Main.java](./src/Main.java)|기본 template|기본 template <br> print()|파일명과 class명 일치 필수 <br> System.out.println()|
-|2|[DataTypes.java](./src/DataTypes.java)|datatype(int, bool, string, float)|기본적인 datatype|변수 선언 시 datatype 지정 필수|
-|3|[Scanners.java](./src/Scanners.java)|scanner|scanner 활용하여 외부 입력값 받기||
-|4|[Booleans.java](./src/Booleans.java)|datatype(boolean)|논리자료형 datatype <br> && / ! |&& : and <br> ! : not 의미|
-|5|[Ifs.java](./src/Ifs.java)|if 구문|if 구문||
-|6|[LoopsFors.java](./src/LoopsFors.java)|for 구문|for 구문 <br> 1) for-loop <br> 2) for-each|for-loop : range 범위를 가지고 for문 적용 <br> for-each : list 자체를 넣어서 for문 적용|
-|7|[LoopsWhiles.java](./src/LoopsWhiles.java)|while & break 구문|while & break 구문||
-|8|[DataTypeStrings.java](./src/DataTypeStrings.java)|datatype(string)|문자형 datatype <br> length() / concat() / replaceAll()|length() : 길이 확인 <br> concat() : 결합 <br> 대체|
-|9|[DataTypeArrayLists.java](./src/DataTypeArrayLists.java)|arraylist <br> add(), get(), size(), remove()||순서 포함 O|
-|10|[DatatypeHashMaps.java](./src/DatatypeHashMaps.java)|hashmap <br> put(), size(), remove()||순서 포함 X, 랜덤으로 출력|
-|11|[TypeCastIntegers.java](./src/TypeCastIntegers.java)|Integer.parseInt()|string타입의 숫자를 int타입으로 변환||
+|1|[Main](./src/Main.java)|기본 template|기본 template <br> print()|파일명과 class명 일치 필수 <br> System.out.println()|
+|2|[DataTypes](./src/DataTypes.java)|datatype(int, bool, string, float)|기본적인 datatype|변수 선언 시 datatype 지정 필수|
+|3|[Scanners](./src/Scanners.java)|scanner|scanner 활용하여 외부 입력값 받기||
+|4|[Booleans](./src/Booleans.java)|datatype(boolean)|논리자료형 datatype <br> && / ! |&& : and <br> ! : not 의미|
+|5|[Ifs](./src/Ifs.java)|if 구문|if 구문||
+|6|[LoopsFors](./src/LoopsFors.java)|for 구문|for 구문 <br> 1) for-loop <br> 2) for-each|for-loop : range 범위를 가지고 for문 적용 <br> for-each : list 자체를 넣어서 for문 적용|
+|7|[LoopsWhiles](./src/LoopsWhiles.java)|while & break 구문|while & break 구문||
+|8|[DataTypeStrings](./src/DataTypeStrings.java)|datatype(string)|문자형 datatype <br> length() / concat() / replaceAll()|length() : 길이 확인 <br> concat() : 결합 <br> 대체|
+|9|[DataTypeArrayLists](./src/DataTypeArrayLists.java)|arraylist <br> add(), get(), size(), remove()||순서 포함 O|
+|10|[DatatypeHashMaps](./src/DatatypeHashMaps.java)|hashmap <br> put(), size(), remove()||순서 포함 X, 랜덤으로 출력|
+|11|[TypeCastIntegers](./src/TypeCastIntegers.java)|Integer.parseInt()|string타입의 숫자를 int타입으로 변환||
 
 </detail>
 
