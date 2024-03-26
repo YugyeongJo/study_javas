@@ -10,13 +10,13 @@
 #### samples
 - [src/Sameple.java](./src/Sample.java)
 
+
 ## JAVA 
 <detail>
 <summary>JAVA</summary>
 
-
-
 </detail>
+
 
 ## Quest
 <detail>
