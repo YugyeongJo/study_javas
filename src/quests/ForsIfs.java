@@ -10,7 +10,7 @@ public class ForsIfs {
 
         // for (int count = 1 ; count <= inputnumber ; count = count + 1){
         for (int count = 0 ; count <= inputnumber ; count ++){
-            int result = (int)Math.pow(2, count);
+            int result = (int)Math.pow(2, count); // 지수연산
             int rest_result = result%4;
             if(rest_result==0) { // 나머지가 0일때 
                 System.out.println("2**"+count+"="+result);
