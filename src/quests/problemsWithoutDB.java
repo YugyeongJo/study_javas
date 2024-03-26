@@ -23,12 +23,15 @@ public class problemsWithoutDB {
         optionlist.add("1) class, 2) def, 3) import, 4) return");
         
         // question & option
-        hashMap.put(questionlist, optionlist);
+        for (int i = 0; i < questionlist.size(); i++) {
+            hashMap.put(questionlist.get(i), optionlist.get(i));
+        }
 
         // 문제 출제
 
-        for(String key:hashMap.keySet()) {
-            System.out.println(key + hashMap.get(key));
+        for(String Test:hashMap.keySet()) {
+            System.out.println(Test);
+            System.out.println(hashMap.get(Test));
             System.out.print("정답 : ");
             int answer = scanner.nextInt();
          }
