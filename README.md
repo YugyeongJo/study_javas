@@ -26,9 +26,10 @@
 |6|[LoopsFors](./src/LoopsFors.java)|for 구문|for 구문 <br> 1) for-loop <br> 2) for-each|for-loop : range 범위를 가지고 for문 적용 <br> for-each : list 자체를 넣어서 for문 적용|
 |7|[LoopsWhiles](./src/LoopsWhiles.java)|while & break 구문|while & break 구문||
 |8|[DataTypeStrings](./src/DataTypeStrings.java)|datatype(string)|문자형 datatype <br> length() / concat() / replaceAll()|length() : 길이 확인 <br> concat() : 결합 <br> 대체|
-|9|[DataTypeArrayLists](./src/DataTypeArrayLists.java)|arraylist <br> add(), get(), size(), remove()||순서 포함 O|
-|10|[DatatypeHashMaps](./src/DatatypeHashMaps.java)|hashmap <br> put(), size(), remove()||순서 포함 X, 랜덤으로 출력|
+|9|[DataTypeArrayLists](./src/DataTypeArrayLists.java)|arraylist <br> add(), get(), size(), remove(), set(), clear()|arraylist 형태(List)로 data 저장, 출력, 삭제, 교체|순서 포함 O|
+|10|[DatatypeHashMaps](./src/DatatypeHashMaps.java)|hashmap <br> put(), get(), size(), remove(), clear(), keyset(), values()|hashmap 형태(Dictionary)로 data 저장, 출력, 삭제, key값만 출력, value값만 출력|순서 포함 X, 랜덤으로 출력|
 |11|[TypeCastIntegers](./src/TypeCastIntegers.java)|Integer.parseInt()|string타입의 숫자를 int타입으로 변환||
+|12|[OopCasts](./src/OopCasts.java)|casting datatype|object를 활용하여 data의 다양한 객체타입 지정|data 활용시 casting 필요|
 
 </detail>
 

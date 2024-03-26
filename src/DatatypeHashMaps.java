@@ -1,4 +1,4 @@
-// refer : https://www.w3schools.com/java/java_arraylist.asp
+// refer : https://www.w3schools.com/java/java_hashmap.asp
 import java.util.HashMap;
 
 public class DatatypeHashMaps {
