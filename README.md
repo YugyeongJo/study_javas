@@ -10,6 +10,7 @@
 #### samples
 - [src/Sameple.java](./src/Sample.java)
 
+<br/><br/>
 
 ## JAVA 
 <detail>
@@ -17,6 +18,7 @@
 
 </detail>
 
+<br/><br/>
 
 ## Quest
 <detail>
