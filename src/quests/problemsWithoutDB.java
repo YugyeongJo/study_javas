@@ -11,10 +11,10 @@ public class problemsWithoutDB {
         HashMap<String, String> hashMap = new HashMap<>();
 
         // question
-        questionlist.add("1. 문제 : Python에서 변수를 선언하는 방법은? (점수: 10점)");
-        questionlist.add("2. 문제 : Python에서 리스트(List)의 특징은 무엇인가요? (점수: 15점)");
-        questionlist.add("3. 문제 : Python에서 조건문을 작성하는 방법은? (점수: 10점)");
-        questionlist.add("4. 문제 : Python에서 함수를 정의하는 방법은? (점수: 5점)");
+        questionlist.add("문제 : Python에서 변수를 선언하는 방법은? (점수: 10점)");
+        questionlist.add("문제 : Python에서 리스트(List)의 특징은 무엇인가요? (점수: 15점)");
+        questionlist.add("문제 : Python에서 조건문을 작성하는 방법은? (점수: 10점)");
+        questionlist.add("문제 : Python에서 함수를 정의하는 방법은? (점수: 5점)");
         
         // option
         optionlist.add("1) var name, 2) name = value, 3) set name, 4) name == value");
