@@ -7,16 +7,16 @@ public class DataTypeStrings {
         // strSecond instanceof String
         // true
 
-        strSecond instanceof String
-        true
-        strFirst.length()
-        7
-        strSecond.length()
-        7
-        strSecond.concat(strFirst)
-        "Hello !Hello !"
-        strFirst.replaceAll("l", "R")
-        "HeRRo !"
-        System.out.println(strFirst);
+        // strSecond instanceof String
+        // true
+        // strFirst.length()
+        // 7
+        // strSecond.length()
+        // 7
+        // strSecond.concat(strFirst)
+        // "Hello !Hello !"
+        // strFirst.replaceAll("l", "R")
+        // "HeRRo !"
+        // System.out.println(strFirst);
     }
 }

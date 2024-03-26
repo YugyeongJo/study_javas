@@ -3,7 +3,7 @@ import java.util.HashMap;
 
 public class DatatypeHashMaps {
     public static void main(String[] args) {
-        HashMap hashMap = new HashMap<>();
+        HashMap<String, String> hashMap = new HashMap<>();
         // 값 넣기
         hashMap.put("England", "London");
         hashMap.put("Germany", "Berlin");
@@ -19,7 +19,12 @@ public class DatatypeHashMaps {
         3
         hashMap
          */
-        System.out.println("Hello World!");
+
+         for(String key:hashMap.keySet()) {
+            System.out.println("hashMap value with key : " 
+                                + key + ", value : " + hashMap.get(key))  ;
+         }
+        // hashmap은 순서 상관없이 출력
 
     }
 }
