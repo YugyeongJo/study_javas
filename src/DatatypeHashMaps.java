@@ -10,6 +10,15 @@ public class DatatypeHashMaps {
         hashMap.put("Norway", "Oslo");
         hashMap.put("Korea", "Seoul");
 
+        /* Debug Console
+         hashMap.size()
+        4
+        hashMap.remove("Germany")
+        "Berlin"
+        hashMap.size()
+        3
+        hashMap
+         */
         System.out.println("Hello World!");
 
     }
