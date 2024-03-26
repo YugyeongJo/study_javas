@@ -1,10 +1,12 @@
 public class Ifs {
     public static void main(String[] args){
-        // if (condition) {
-            // else if (condition) {
-            // else {
-            //
-            //}
+        /* if (condition) {
+            else if (condition) {
+            else {
+            
+            }
+        */
+
 
         /* <- 주석
             예제 : 시간에 따른 영어 인사, and 조건 추가 개선
