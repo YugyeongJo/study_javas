@@ -28,8 +28,8 @@ public class problemsWithoutDB {
         }
 
         // 문제 출제
-
-        for(String Test:hashMap.keySet()) {
+        System.out.println("아래는 4개의 Python 관련 문제와 각 문항의 난이도에 따른 점수화");
+        for(String Test:questionlist) {
             System.out.println(Test);
             System.out.println(hashMap.get(Test));
             System.out.print("정답 : ");
