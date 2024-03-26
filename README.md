@@ -13,8 +13,8 @@
 <br/><br/>
 
 ## JAVA 
-<detail>
-<summary>JAVA</summary>
+<details>
+<summary>JAVA Basic</summary>
 
 |구분|파일명|적용내용|파일내용|비고|
 |--|--|--|--|--|
@@ -31,12 +31,12 @@
 |11|[TypeCastIntegers](./src/TypeCastIntegers.java)|Integer.parseInt()|string타입의 숫자를 int타입으로 변환||
 |12|[OopCasts](./src/OopCasts.java)|casting datatype|object를 활용하여 data의 다양한 객체타입 지정|data 활용시 casting 필요|
 
-</detail>
+</details>
 
 <br/><br/>
 
 ## Quest
-<detail>
+<details>
 <summary>Quest</summary>
 
 |구분|파일명|적용내용|파일내용|비고|
@@ -47,4 +47,4 @@
 |4|[pollsWithoutDB](./src/quests/pollsWithoutDB.java)|ArrayList(add, get) <br> for-loop문 <br> for-each문|영화 선호도 설문조사하기||
 |5|[problemsWithoutDB](./src/quests/problemsWithoutDB.java)|ArrayList(add, get) <br> HashMap(put)|문제 출제 후 답항 입력받기||
 
-</detail>
+</details>
