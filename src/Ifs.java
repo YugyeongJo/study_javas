@@ -1,4 +1,4 @@
-public class ifs {
+public class Ifs {
     public static void main(String[] args){
         // if (condition) {
             // else if (condition) {
