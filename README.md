@@ -67,6 +67,6 @@
   
   |NO|구분|소스|문제설명|출처|
   |--|--|--|--|--|
-  |1|입문문제|[Python](./docs/codingtests/programmers/120898.py)|편지지의 최소 가로길이 출력|[프로그래머스 120898](https://school.programmers.co.kr/learn/courses/30/lessons/120898)|
+  |1|입문문제|[JAVA](./src/codingtests/programmers/P120810.java)|나머지 구하기|[프로그래머스 120810](https://school.programmers.co.kr/learn/courses/30/lessons/120810)|
   
 </details>
