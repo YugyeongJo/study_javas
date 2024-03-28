@@ -48,3 +48,23 @@
 |5|[problemsWithoutDB](./src/quests/problemsWithoutDB.java)|ArrayList(add, get) <br> HashMap(put)|문제 출제 후 답항 입력받기||
 
 </details>
+
+## Coding Test
+<details>
+
+  <summary>백준</summary>
+
+  |구분|소스|문제설명|출처|
+  |--|--|--|--|
+  |입출력과 사칙연산|[Python](./docs/codingtests/function/2557.py)|Hello World!를 출력|[백준 2557](https://www.acmicpc.net/problem/2557)|
+  
+</details>
+
+<details>
+  <summary>프로그래머스</summary>
+  
+  |NO|구분|소스|문제설명|출처|
+  |--|--|--|--|--|
+  |1|입문문제|[Python](./docs/codingtests/programmers/120898.py)|편지지의 최소 가로길이 출력|[프로그래머스 120898](https://school.programmers.co.kr/learn/courses/30/lessons/120898)|
+  
+</details>
