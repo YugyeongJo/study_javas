@@ -8,10 +8,10 @@
 ~$ docker-compose --project-name java_mysql up -d --build
 ```
 #### samples
-- [src/Sameple.java](https://github.com/YugyeongJo/study_javas/wiki)
+- [src/Sameple.java](./src/Sample.java)
 
 #### JAVA 개념 정리
-- [JAVA 개념 정리](./src/Sample.java)
+- [JAVA 개념 정리](https://github.com/YugyeongJo/study_javas/wiki)
 
 <br/><br/>
 
