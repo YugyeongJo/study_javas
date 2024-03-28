@@ -14,14 +14,16 @@
 
 class P120810 {
     public int solution(int num1, int num2) {
-        int answer = num1%num2;
+        int answer = 0;
+        answer = num1 % num2;
         return answer;
     }
-    
-    public class Main {
-        public static void main(String[] args){
-            System.out.println("Hello Main !");
-        }
+
+    public static void main(String[] args){
+        P120810 solution = new P120810();
+        int[] inputArray = {3, 2};
+        int result = solution.solution(inputArray[0], inputArray[1]);
+        System.out.println(result);
     }
 }
 
