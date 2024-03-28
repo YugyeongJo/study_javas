@@ -26,5 +26,3 @@ class P120810 {
         System.out.println(result);
     }
 }
-
-// JI
