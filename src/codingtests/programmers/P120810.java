@@ -9,9 +9,9 @@
 
 // 입출력 예
 // num1	num2	result
-// 3	2	1
+// 3	2	1 
 // 10	5	0
-
+ 
 class P120810 {
     public int solution(int num1, int num2) {
         int answer = 0;
@@ -27,3 +27,4 @@ class P120810 {
     }
 }
 
+// JI
